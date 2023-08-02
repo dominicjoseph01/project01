@@ -1,0 +1,22 @@
+body{
+    background-color:lightblue;
+}
+h1{
+    color:rgb(76, 17, 164);
+}
+body{
+    width:65%;
+    height:80%;
+    border:10px solid darkblue;
+    padding:50px;
+    margin:50px ;
+
+}
+
+#but{
+    background-color:solid green;
+} 
+div#S-form{
+    font-style:oblique;
+    color:blueviolet;
+}
